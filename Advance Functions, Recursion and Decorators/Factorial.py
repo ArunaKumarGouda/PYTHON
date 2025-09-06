@@ -1,6 +1,5 @@
 #User function Template for python3
 
-
 class Solution:
     def factorial (self, n):
         # code here

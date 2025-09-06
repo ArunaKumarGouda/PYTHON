@@ -1,4 +1,3 @@
-
 class Solution:
     def nthFibonacci(self, n: int) -> int:
         # code here

@@ -8,6 +8,7 @@
 # Take floating-point input and multiply the float input by 10 and print
 
 ########### Write your code above ###############
+
 S = input()
 print(S)
 

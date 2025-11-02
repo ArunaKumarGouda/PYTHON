@@ -4,7 +4,7 @@ class TaskManager(object):
 
     def __init__(self, tasks):
         """
-        :type tasks: List[List[int]] where each item is [userId, taskId, priority]
+        :type tasks: List[List[int]] where each item is [userId, taskId, priority] 
         """
         self.heap = []               # stores tuples: (-priority, -taskId, taskId)
         self.taskMap = {}            # taskId -> (userId, priority)

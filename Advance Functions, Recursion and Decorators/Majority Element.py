@@ -1,7 +1,7 @@
 class Solution:
     def majorityElement(self, arr):
         #code here
-        n = len(arr)
+        n = len(arr) 
         count_map = {}
         
         for num in arr:

@@ -1,5 +1,5 @@
 class Solution:
-    def nthFibonacci(self, n: int) -> int:
+    def nthFibonacci(self, n: int) -> int: 
         # code here
         if n == 0:
             return 0

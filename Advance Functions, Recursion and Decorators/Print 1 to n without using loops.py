@@ -1,7 +1,7 @@
 class Solution:
     def printTillN(self, N):
         #code here 
-        def helper(n):
+        def helper(n): 
             if n == 0:
                 return
             helper(n - 1)

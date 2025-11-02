@@ -1,5 +1,5 @@
 #User function Template for python3
-list1 = list(map(int, input().split()))
+list1 = list(map(int, input().split())) 
 list2 = list(map(int, input().split()))
 
 # 1. Use zip() to combine multiple lists into a single iterable 

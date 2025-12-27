@@ -19,3 +19,4 @@ print(list(filtered))
 mapped =  map(lambda x: x * 2, list1)# Your code here
 ########### Write your code above ###############
 print(list(mapped))
+l

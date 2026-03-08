@@ -129,4 +129,44 @@ else:
 
 
 
-# Q)
+# Q) 8:-  Write a program to make a copy of a text file "this.txt"
+with open("chapter_1/this.txt") as f:
+    content = f.read()
+
+with open("chapter_1/this_copy.txt", "w") as f:
+    f.write(content)
+
+print("The this.txt is successfully copied in this_copy.txt file")
+
+
+
+# Q) 9:- Write a program to find out whether a file is identical and matches the content of another file
+with open("chapter_1/this.txt") as f:
+    content1 = f.read()
+
+with open("chapter_1/this_copy.txt") as f:
+    content2 = f.read()
+
+if(content1 == content2):
+    print("Yes this two files are identical and mathced")
+else:
+    print("No this two file are not identical and matched")
+
+
+
+# Q) 10:- Write a program to wipe out the content of a file using python.
+with open("chapter_1/wipe.txt", "w") as f:
+    f.write("")
+
+print("The content is successfully wipe out")
+
+
+
+# Q) 11:- Write a python program to rename a file to "renamed_by_python.txt".
+with open("chapter_1/log.txt") as f:
+    content = f.read()
+
+with open("chapter_1/renamed_by_python.txt", "w") as f:
+    f.write(content)
+
+print("The txt file is successfully renamed")

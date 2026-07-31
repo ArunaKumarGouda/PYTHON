@@ -26,25 +26,15 @@ From Basics to AI • Automation • Data Science • Web Development
 
 ---
 
-# 📊 Repository Statistics
+# ⭐ Repository Highlights
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaKumarGouda&repo=PYTHON&theme=tokyonight&show_owner=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/ArunaKumarGouda/PYTHON?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/forks/ArunaKumarGouda/PYTHON?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/watchers/ArunaKumarGouda/PYTHON?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/ArunaKumarGouda/PYTHON?style=for-the-badge"/>
-
-</p>
+- 🐍 Beginner to Advanced Python Programs
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🌐 Flask & FastAPI
+- ⚡ Automation Scripts
+- 👁 OpenCV Projects
+- 🧠 Machine Learning (Coming Soon)
 
 ---
 

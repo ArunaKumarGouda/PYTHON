@@ -30,7 +30,7 @@ From Basics to AI • Automation • Data Science • Web Development
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaKumarGouda&repo=PYTHON&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaKumarGouda&repo=python&theme=tokyonight"/>
 
 </p>
 

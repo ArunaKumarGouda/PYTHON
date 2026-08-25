@@ -4,5 +4,4 @@ while(i <= 15):
         print(i, "is Even")
     else:
         print(i, "is Odd")
-        
     i += 1

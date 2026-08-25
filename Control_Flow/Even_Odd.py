@@ -5,3 +5,4 @@ while(i <= 15):
     else:
         print(i, "is Odd")
     i += 1
+    print("Thank You")
